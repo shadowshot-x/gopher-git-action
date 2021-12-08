@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: SHADOWSHOT-X ACTION GOPHER
+author: shadowshot-x
+description: Shadow tweet generation and cold actions
 inputs:
   message:
     description: 'message you want to tweet'
